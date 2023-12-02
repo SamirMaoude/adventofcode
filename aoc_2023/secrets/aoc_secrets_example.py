@@ -1,0 +1,1 @@
+AOC_COOKIE = "" # Put your session cookie in this variable
